@@ -9,7 +9,7 @@
     $ pip install virtualenv
     $ virtualenv -p /usr/bin/python3 venv
     $ pip3 install -r requirement.txt
-    $ run application
+    $ python3 manage.py runserver 
         
 Note the recommended Python version is 3
 
