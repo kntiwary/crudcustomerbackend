@@ -1,10 +1,10 @@
 # Customer backend
 #### This is the backend service to demonstrate simple crud operation
 
-###Usage
+### Usage
     Before running the above command, it is advisable to create virtual environment.
  
-###First time setup
+### First time setup
 
     $ pip install virtualenv
     $ virtualenv -p /usr/bin/python3 venv
@@ -13,5 +13,5 @@
         
 Note the recommended Python version is 3
 
-###Running from the virtual environment
+### Running from the virtual environment
     $ source venv/bin/activate
